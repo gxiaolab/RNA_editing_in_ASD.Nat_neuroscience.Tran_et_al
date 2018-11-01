@@ -1,0 +1,5 @@
+Repository holds 
+
+call_differential_editing_sites.R
+	The script analyzes a sample data frame of editing info and adds p-values for determining which editing site are statistically differential.
+	Run in the scripts directory using: Rscript call_differential_editing_sites.R
